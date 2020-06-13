@@ -604,7 +604,7 @@ type IntReader interface {
 }
 ```
 
-对齐分析语法树结果如下：
+对其分析语法树，结果如下：
 
 ```
 11  .  Type: *ast.InterfaceType {
